@@ -1,4 +1,4 @@
-module github.com/johnkerl/miller/go
+module github.com/shoobyban/miller/go
 
 go 1.15
 
