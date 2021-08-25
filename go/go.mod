@@ -1,4 +1,4 @@
-module mlr
+module github.com/johnkerl/miller/go
 
 go 1.15
 
